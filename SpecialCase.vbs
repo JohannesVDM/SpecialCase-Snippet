@@ -1,7 +1,4 @@
 Function SpecialCase(sText)
-'*** Converts text to proper case e.g.  ***'
-'*** surname = Surname                  ***'
-'*** o'connor = O'Connor                ***'
  
     Dim a, iLen, bSpace, tmpX, tmpFull,SrchText
     SrchText = " -'/\&"
